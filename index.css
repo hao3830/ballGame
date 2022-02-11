@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+#gameSocre {
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    position: relative;
+    left: 50px;
+    /* top: 20px; */
+    font-size:20px;
+    display: flex;
+    z-index: -1;
+}
